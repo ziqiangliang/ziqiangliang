@@ -47,7 +47,7 @@
 ---
 
 ## 📫 联系我
-- Email: your@email.com  
+- Email: liangziqiangu@gmail.com  
 - GitHub: [github.com/ziqiangliang](https://github.com/ziqiangliang)  
 
 ---
