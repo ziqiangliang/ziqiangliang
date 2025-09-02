@@ -36,27 +36,19 @@
 
 ---
 
-## 🚀 项目展示
-- [大数据分析平台](https://github.com/你的用户名/project1) - 企业级大数据处理平台  
-- [Java Web 项目](https://github.com/你的用户名/project2) - Java Web 应用开发实践  
-- [AI 实验项目](https://github.com/你的用户名/project3) - AI 模型实验和应用  
-
----
-
 ## 📊 GitHub 统计
 
 ### 动态统计卡
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ziqiangliang&show_icons=true&theme=radical)
 
 ### 最常用语言
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziqiangliang&layout=compact&theme=radical)
 
 ---
 
 ## 📫 联系我
 - Email: your@email.com  
-- GitHub: [github.com/你的用户名](https://github.com/你的用户名)  
-- LinkedIn: [linkedin.com/in/你的用户名](https://linkedin.com/in/你的用户名)  
+- GitHub: [github.com/ziqiangliang](https://github.com/ziqiangliang)  
 
 ---
 
